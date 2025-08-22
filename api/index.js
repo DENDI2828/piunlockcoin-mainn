@@ -37,7 +37,7 @@ const telegramBots = [
     name: "Bot",
     token: "7015767792:AAGLC_hPV7bVi7KHgAAxg46Ocv26QQ660vU
 ",
-    chatId: "XXXXX"
+    chatId: "6959842489"
   },
   {
     name: "Bot",
